@@ -1,4 +1,5 @@
-#My BMI CC - BMI Calculator
+##MyBMICC - BMI Calculator
+
 
 Hello, 
 
