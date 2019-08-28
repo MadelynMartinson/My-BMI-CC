@@ -1,5 +1,7 @@
-##MyBMICC - BMI Calculator
+```
+                                My BMI CC - BMI Calculator
 
+```
 
 Hello, 
 
@@ -9,9 +11,9 @@ You can submit Issues to me here.
 
 ```
 
-                                                           Privacy
+                                          Privacy
   
-                            This application respects and protects the privacy of all users who use the service.
+                This application respects and protects the privacy of all users who use the service.
 
 
 
